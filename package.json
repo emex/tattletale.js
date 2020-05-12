@@ -21,7 +21,7 @@
   "dependencies": {
     "grunt": "^0.4",
     "grunt-contrib-jshint": "^0.6",
-    "grunt-mocha": "^1.0.4",
+    "grunt-mocha": "^1.2.0",
     "mocha": "^1.10",
     "chai": "^1.6",
     "sinon": "^1.7",
